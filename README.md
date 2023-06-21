@@ -1,10 +1,9 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/snow-background-on-tumblr_95.gif)](https://ManishTalmale.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://ManishTalmale.io)
 <h1 align="center">Hi 👋, I'm Manish Govind Talmale</h1>
 <p align="center">I am a ReactJS FrontEnd Developer.I love programming👨‍💻, reading , writing and speaking. As a developer i enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why i like to make things that make a difference.</p>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="manishtalmale" /> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishtalmale" alt="manishtalmale" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS , MongoDB , ExpressJS ,**
 
@@ -16,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/manish-talmale-886971238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gaurav-ingole-79b72a238" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
