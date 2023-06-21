@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS , MongoDB , ExpressJS ,**
 
-- 👨‍💻 All of my projects are available at [https://manishtalmale.github.io/Portfolio/](https://manishtalmale.github.io/Portfolio/)
+- 👨‍💻 My Portfolio Responsive Website [https://manishtalmale.github.io/Portfolio/](https://manishtalmale.github.io/Portfolio/)
 
 - 💬 Ask me about **Various Types Of Web Technologies**
 
