@@ -1,8 +1,8 @@
 [![MasterHead](https://animated-gif-creator.com/images/01/snow-background-on-tumblr_95.gif)](https://ManishTalmale.io)
 <h1 align="center">Hi 👋, I'm Manish Govind Talmale</h1>
-<h3 align="center">I am a ReactJS FrontEnd Developer.I love programming👨‍💻, reading , writing and speaking. As a developer i enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why i like to make things that make a difference.</h3>
+<p align="center">I am a ReactJS FrontEnd Developer.I love programming👨‍💻, reading , writing and speaking. As a developer i enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why i like to make things that make a difference.</p>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="manishtalmale" /> </p>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="manishtalmale" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishtalmale" alt="manishtalmale" /></a> </p>
 
